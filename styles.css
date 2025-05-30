@@ -1,0 +1,28 @@
+body {
+    background-color: black ;
+}
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+}
+img {
+    margin-left:27%;
+    display: inline;
+    float: left;
+    padding-right: 20px;
+}
+.font {
+    color: whitesmoke;
+     
+}
+table {
+    display: inline;
+    ;
+}
+a {
+    display: inline;
+}
+#tab {
+    margin-left: 42%;
+}
